@@ -1,0 +1,8 @@
+../Core/Src/GyroControl.c:13:6:Gyro_Init	1
+../Core/Src/GyroControl.c:44:6:Gyro_GetID	3
+../Core/Src/GyroControl.c:63:6:Gyro_PowerOn	3
+../Core/Src/GyroControl.c:80:6:Gyro_GetTemp	3
+../Core/Src/GyroControl.c:99:6:Gyro_RegConfig	5
+../Core/Src/GyroControl.c:130:6:Gyro_ReadReg	1
+../Core/Src/GyroControl.c:134:6:Gyro_Slave_Enable	1
+../Core/Src/GyroControl.c:139:6:Gyro_Slave_Disable	1

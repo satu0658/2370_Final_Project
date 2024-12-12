@@ -1,0 +1,17 @@
+../Core/Src/Tetris_Driver.c:106:6:BlockInit	32	static
+../Core/Src/Tetris_Driver.c:122:6:gameStart	8	static
+../Core/Src/Tetris_Driver.c:133:6:GenerateRandomBlock	32	static
+../Core/Src/Tetris_Driver.c:148:6:drawTetrisShape	48	static
+../Core/Src/Tetris_Driver.c:168:6:Rotate90	48	static
+../Core/Src/Tetris_Driver.c:197:6:saveShape	24	static
+../Core/Src/Tetris_Driver.c:208:6:dropBlock	16	static
+../Core/Src/Tetris_Driver.c:225:6:moveLeft	24	static
+../Core/Src/Tetris_Driver.c:253:6:moveRight	24	static
+../Core/Src/Tetris_Driver.c:280:6:isValidMove	32	static
+../Core/Src/Tetris_Driver.c:300:6:changeHeight	24	static
+../Core/Src/Tetris_Driver.c:320:6:updateBoard	24	static
+../Core/Src/Tetris_Driver.c:333:6:clearBoard	24	static
+../Core/Src/Tetris_Driver.c:346:6:mainMenu	224	static
+../Core/Src/Tetris_Driver.c:380:6:checkTop	16	static
+../Core/Src/Tetris_Driver.c:414:6:gameEnd	64	static
+../Core/Src/Tetris_Driver.c:464:6:gameScreen	64	static

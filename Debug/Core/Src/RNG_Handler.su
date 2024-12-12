@@ -1,0 +1,2 @@
+../Core/Src/RNG_Handler.c:13:6:RNG_Init	16	static
+../Core/Src/RNG_Handler.c:22:10:GenerateRandNum	16	static
